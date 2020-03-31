@@ -19,7 +19,5 @@
 #   return "HAPPY NEW YEAR!"
 # end
   
-  puts "Hello world! Greetings from Includehelp.com"
-sleep 5
-puts "bye"
+
   
